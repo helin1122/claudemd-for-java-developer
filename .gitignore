@@ -11,3 +11,6 @@ stats-cache.json
 tasks/
 todos/
 projects/
+plans/
+plugins/
+settings.json
