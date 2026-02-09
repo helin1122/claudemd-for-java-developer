@@ -1,0 +1,13 @@
+shell-snapshots/
+statsig/
+session-env/
+ide/
+file-history/
+cache/
+debug/
+__store.db
+history.jsonl
+stats-cache.json
+tasks/
+todos/
+projects/
